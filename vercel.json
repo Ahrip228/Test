@@ -3,7 +3,7 @@
   "builds": [
     {
       "src": "*.php",
-      "use": "@juicyfx/php"
+      "use": "now-php"
     }
   ]
 }
